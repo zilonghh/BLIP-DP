@@ -1,6 +1,6 @@
 # BLIP-DP：Dynamic Text Prompt Joint Multimodal Features for Accurate Plant Disease Image Captioning
 
-The complete dataset will be published after the paper is accepted.
+Please click on the link below to download the complete dataset <a href="https://pan.baidu.com/s/1vu37hblt4yWLNsqsTk03ag?pwd=a93s">Datas</a>
 
 The example dataset is reflected in data/example.
 
